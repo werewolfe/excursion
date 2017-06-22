@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #FFFFFF;
+
+    text-align: center;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #999999;
+}
+
+div p {
+    text-align: right;
+}
+
+a {
+    color: darkturquoise;
+}
